@@ -1,4 +1,4 @@
-# Mini Projeto Final - Operações com Conjuntos
+# Mini Projeto - Operações com Conjuntos
 
 def execute_operations(filename):
     with open(filename, 'r') as file:

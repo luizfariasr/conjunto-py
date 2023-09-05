@@ -1,2 +1,2 @@
 # conjunto-py
-realizar operações com conjuntos em entradas txt
+realizar operações de álgebra relacional - matemática discreta - a partir de entradas .txt
